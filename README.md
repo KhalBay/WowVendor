@@ -1,1 +1,1 @@
-# Just go to [WoWVendor](https://khalbay.github.io/).
+# Just go to [WoW Vendor](https://khalbay.github.io/WowVendor/).
